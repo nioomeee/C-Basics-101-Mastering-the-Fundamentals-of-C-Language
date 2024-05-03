@@ -1,0 +1,4 @@
+insert into employee values(102, "Niomi", "Banglore", "HR", 60000);
+insert into employee values(103, "Vinay", "Mumbai", "Manager", 65000);
+insert into employee values(104, "Vansh", "Hyderabad", "Finance", 40000);
+insert into employee values(106, "Sarthak", "Ahmedabad", "Sales", 350000);
