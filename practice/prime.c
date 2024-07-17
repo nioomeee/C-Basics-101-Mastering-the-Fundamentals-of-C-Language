@@ -19,12 +19,12 @@ int Prime(int n)
         {
             cnt ++;
         }
-        if(cnt == 2)
+    }
+    if(cnt == 2)
             printf("%d is a prime number", n);
         else
             printf("%d is not a prime number", n);
-            break;
-    }
+           
     
     return 0;
 }
